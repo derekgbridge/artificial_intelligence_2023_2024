@@ -18,13 +18,13 @@ Better is to install git: [https://git-scm.com/](https://git-scm.com/)
 
 Then, as a one-off, you clone my github repository:
 ```
-$ git clone https://github.com/derekgbridge/artificial_intelligence.git
+$ git clone https://github.com/derekgbridge/artificial_intelligence_2023_2024.git
 ```
-This gives you a copy of my repository in a folder called artificial_intelligence.
+This gives you a copy of my repository in a folder called artificial_intelligence_2023_2024.
 
 Then, whenever I add new resources to the repository or change the existing resources, all you need to do is issue a pull request:
 ```
-$ cd artificial_intelligence
+$ cd artificial_intelligence_2023_2024
 $ git pull
 ```
 
@@ -34,7 +34,7 @@ $ git pull
 
 2. Go into your folder:
 ```
-$ cd artificial_intelligence
+$ cd artificial_intelligence_2023_2024
 ```
 
 3. Create a Python virtual environment. E.g. at the command prompt, type:
@@ -98,7 +98,7 @@ If you have problems with the above, then note that you can use Google Colab for
 
 1. Go into your folder:
 ```
-$ cd artificial_intelligence
+$ cd artificial_intelligence_2023_2024
 ```
 
 2. Activate the virtual environment, as you did in (4) above. A classic error is to forget to do this. 
@@ -117,7 +117,7 @@ When you launch Jupyter Notebooks, you are, in fact, starting a local server, i.
 
 You will also find that a web page opens in your web browser. As you interact with this web page, your requests are being sent to the local server and its responses are sent back to the browser and used to update the page.
 
-The URL of this page will be (something like) http://localhost:8889/tree. It lists the contents of your artificial_intelligence folder. Click until you get to the folder where you want to do your work. 
+The URL of this page will be (something like) http://localhost:8889/tree. It lists the contents of your artificial_intelligence_2023_2024 folder. Click until you get to the folder where you want to do your work. 
 
 If you have any existing Jupyter notebooks, you will see them with file extension .ipynb. Clicking on them opens them in a new tab. 
 
